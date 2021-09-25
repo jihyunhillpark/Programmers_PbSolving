@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution {
+class week6 {
     class Boxer implements Comparable<Boxer> {
         float winRate;
         int winCount;

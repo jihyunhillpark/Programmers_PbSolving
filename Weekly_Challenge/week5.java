@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class week5 {
     static char vowels[] = {'A','E','I','O','U'};
     static int ret;
     static boolean flag = true;

@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class week4 {
     public String solution(String[] table, String[] languages, int[] preference) {
         String answer = "";
         HashMap<String, Integer> langValue = new HashMap<>();
